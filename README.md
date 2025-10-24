@@ -1,5 +1,5 @@
-# mc-fast-cord
-- My discord: xalperen
+# mc-fast-cordi
+-
 - Youtube: https://www.youtube.com/@iAlperenS
 ## ⚠ Requirements and Warnings
 - F3 acik olmali / Enable the f3
