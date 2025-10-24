@@ -1,4 +1,4 @@
-# mc-fast-cordi
+# mc-fast-cord
 - My discord: xalperen
 - Youtube: https://www.youtube.com/@iAlperenS
 ## ⚠ Requirements and Warnings
