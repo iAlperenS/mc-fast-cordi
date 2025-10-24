@@ -7,7 +7,7 @@
   - requests
   - pynput
   - PIL
-  - 
+  - pyautogui
   - time
   - colorama (colored window)
 - **Python**
